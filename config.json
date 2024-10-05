@@ -1,10 +1,10 @@
 {
-	"email": "",
-	"password": "",
+	"email": "61565006387204",
+	"password": "09652532137",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
-	"prefix": "#",
+	"adminBot": [herana],
+	"nickNameBot": "autobot",
+	"prefix": "!",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
